@@ -369,7 +369,7 @@ No duplicate records found.
 
 The finalized dashboard provides a comprehensive view of the credit card operations on a weekly basis. It includes key performance indicators, charts, and tables that allow for easy monitoring and analysis.
 
-![Credit Card Dashboard](assets/images/credit_card_dashboard.png)
+![Credit Card Dashboard](Credit_Card_Report.pdf)
 
 **Description of Dashboard Components:**
 
