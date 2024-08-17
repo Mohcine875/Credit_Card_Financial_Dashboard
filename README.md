@@ -116,12 +116,6 @@ To effectively present this information, the dashboard should include the follow
    - Top 10 Customers by Transaction Amount
    - Default Rates by Customer Segment
 
-### Dashboard Mockup
-
-Below is a mockup of the proposed dashboard layout:
-
-![Dashboard Mockup](assets/images/credit_card_dashboard_mockup.png)
-
 ### Tools
 
 The following tools will be utilized for this project:
@@ -646,15 +640,3 @@ We would like to thank the data analytics team and all stakeholders involved in 
 | annual_fees    | Annual fees associated with the card     |
 | interest_earned| Interest earned from the card            |
 | status         | Current status of the credit card        |
-
-## Appendix B: SQL Scripts
-
-All SQL scripts used for data cleaning, transformation, and view creation are available in the [SQL Scripts Folder](https://github.com/username/credit-card-dashboard/sql-scripts) of the GitHub repository.
-
-## Appendix C: Power BI Dashboard File
-
-The Power BI dashboard file (.pbix) can be accessed and downloaded from the [Dashboard Folder](https://github.com/username/credit-card-dashboard/dashboard) in the GitHub repository.
-
----
-
-*For any questions or further information, please contact [Your Name](mailto:your.email@example.com).*
